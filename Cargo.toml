@@ -1,0 +1,17 @@
+[package]
+name = "calc"
+version = "0.1.0"
+authors = ["Ethan <kigangadarell@gmail.com>"]
+edition = "2021"
+documentation = "https://docs.rs/calc/"
+description = "A program to help you access the public functions in this code and to perform mathematical calculations, including addition, subtraction, multiplication and division"
+repository = "https://github.com/Swoiksdmop/calc"
+license = "MIT"
+readme = "README.md"
+keywords = ["calc", "calculator", "cal"]
+categories = ["mathematics", "command-line-utilities"]
+exclude = ["/target"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
