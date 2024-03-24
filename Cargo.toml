@@ -1,14 +1,14 @@
 [package]
-name = "calc"
+name = "C4lc"
 version = "0.1.0"
 authors = ["Ethan <kigangadarell@gmail.com>"]
 edition = "2021"
-documentation = "https://docs.rs/calc/"
+documentation = "https://docs.rs/C4lc/"
 description = "A program to help you access the public functions in this code and to perform mathematical calculations, including addition, subtraction, multiplication and division"
-repository = "https://github.com/Swoiksdmop/calc"
+repository = "https://github.com/Swoiksdmop/C4lc"
 license = "MIT"
 readme = "README.md"
-keywords = ["calc", "calculator", "cal"]
+keywords = ["C4lc", "c4lc", "calculator", "C4l"]
 categories = ["mathematics", "command-line-utilities"]
 exclude = ["/target"]
 
