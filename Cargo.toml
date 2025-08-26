@@ -8,7 +8,7 @@ repository = "https://github.com/Darethan025/C4lc"
 homepage = "https://github.com/Darethan025/C4lc"
 license-file = "LICENSE"
 readme = "README.md"
-keywords = ["calculate", "calc", "calculator", "c4l", "math", "maths"]
+keywords = ["calculate", "calc", "calculator", "c4l", "maths"]
 categories = ["mathematics", "command-line-utilities", "beginner"]
 exclude = ["/target"]
 
