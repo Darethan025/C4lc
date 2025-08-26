@@ -1,15 +1,15 @@
 [package]
-name = "C4lc"
+name = "c4lc"
 version = "0.2.0"
 authors = ["Ethan <kigangadarell@gmail.com>"]
 edition = "2024"
-documentation = "https://docs.rs/C4lc/"
+documentation = "https://docs.rs/c4lc/"
 description = "A crate to help you perform mathematical calculations, including addition, subtraction, multiplication and division, others included"
 repository = "https://github.com/Darethan025/C4lc"
 homepage = "https://github.com/Darethan025/C4lc"
 license-file = "LICENSE"
 readme = "README.md"
-keywords = ["calculate", "calc", "calculator", "C4l", "math", "maths"]
+keywords = ["calculate", "calc", "calculator", "c4l", "math", "maths"]
 categories = ["mathematics", "command-line-utilities", "beginner"]
 exclude = ["/target"]
 
