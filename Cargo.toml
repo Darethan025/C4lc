@@ -1,15 +1,16 @@
 [package]
 name = "C4lc"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Ethan <kigangadarell@gmail.com>"]
-edition = "2021"
+edition = "2024"
 documentation = "https://docs.rs/C4lc/"
-description = "A program to help you access the public functions in this code and to perform mathematical calculations, including addition, subtraction, multiplication and division"
-repository = "https://github.com/Swoiksdmop/C4lc"
-license = "MIT"
+description = "A program to help you perform mathematical calculations, including addition, subtraction, multiplication and division, others included"
+repository = "https://github.com/Darethan025/C4lc"
+homepage = "https://github.com/Darethan025/C4lc"
+license-file = "LICENSE"
 readme = "README.md"
-keywords = ["C4lc", "c4lc", "calculator", "C4l"]
-categories = ["mathematics", "command-line-utilities"]
+keywords = ["calculate", "calc", "calculator", "C4l", "math", "maths"]
+categories = ["mathematics", "command-line-utilities", "beginner"]
 exclude = ["/target"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
