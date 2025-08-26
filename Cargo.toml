@@ -1,8 +1,8 @@
 [package]
-name = "c4lc"
-version = "0.2.0"
+name = "C4lc"
+version = "0.2.1"
 edition = "2024"
-documentation = "https://docs.rs/c4lc/"
+documentation = "https://docs.rs/C4lc/"
 description = "A crate to help you perform mathematical calculations, including addition, subtraction, multiplication and division, others included"
 repository = "https://github.com/Darethan025/C4lc"
 homepage = "https://github.com/Darethan025/C4lc"
