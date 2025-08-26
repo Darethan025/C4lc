@@ -1,7 +1,6 @@
 [package]
 name = "c4lc"
 version = "0.2.0"
-authors = ["Ethan <kigangadarell@gmail.com>"]
 edition = "2024"
 documentation = "https://docs.rs/c4lc/"
 description = "A crate to help you perform mathematical calculations, including addition, subtraction, multiplication and division, others included"
